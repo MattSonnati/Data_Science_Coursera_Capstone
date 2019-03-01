@@ -1,4 +1,4 @@
-# Data Science Capstone Project
+# Data Science Capstone Projects
 
 This repository hosts the various projects related to the <a href="https://www.coursera.org/specializations/ibm-data-science-professional-certificate"> IBM Data Science Proefesionnal certificate </a>. 
 
